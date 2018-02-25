@@ -1,4 +1,4 @@
-# Battle Tank
+﻿# Battle Tank
 
 ### 1 Intro, Notes & Section 4 Assets ###
 
@@ -16,3 +16,4 @@
 + Constantly asking “what’s least fun” 
 + Remember we’re not AAA studios 
 + Let’s find the essence of fun of this game.
++ Commit Task
